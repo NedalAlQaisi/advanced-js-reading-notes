@@ -9,3 +9,5 @@
 ## [04- Linked Lists](./04-Linked-Lists.md)
 
 ## [05- Authentication](./05-Authentication.md)
+
+## [06- Bearer Authorization](./06-Bearer-Authorization.md)
