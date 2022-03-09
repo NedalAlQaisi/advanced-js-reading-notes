@@ -62,11 +62,6 @@ Access control based on user roles (a collection of access authorizations a user
 - Maximizing operational efficiency.
 - Improving compliance.
 
-## Types of access control
 
-Discretionary access control (DAC)
-Mandatory access control (MAC)
-Role Based Access Control (RBAC)
-Attribute Based Access Control (ABAC)
 
 ### [Back to the HOME](./README.md)
