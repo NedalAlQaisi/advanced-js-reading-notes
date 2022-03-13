@@ -13,3 +13,5 @@
 ## [[06]  Bearer Authorization](./06-Bearer-Authorization.md)
 
 ## [[07]  Access Control (ACL)](./07-Access-Control-(ACL).md)
+
+## [[08]  Authorization/Authentication](./08-Authorization-Authentication.md)
