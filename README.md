@@ -15,3 +15,5 @@
 ## [[07]  Access Control (ACL)](./07-Access-Control-(ACL).md)
 
 ## [[08]  Authorization/Authentication](./08-Authorization-Authentication.md)
+
+## [[09]  Stacks & Queues](./09-Stacks-and-Queues.md)
