@@ -17,3 +17,5 @@
 ## [[08]  Authorization/Authentication](./08-Authorization-Authentication.md)
 
 ## [[09]  Stacks & Queues](./09-Stacks-and-Queues.md)
+
+## [[10]  Event Driven Applications](./10-Event-Driven.md)
